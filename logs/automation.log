@@ -1,0 +1,403 @@
+16:37:05.857 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+16:37:06.483 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+16:37:07.246 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:37:07.254 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+16:37:09.020 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+16:37:09.090 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+16:48:58.253 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+16:48:58.863 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+16:48:59.595 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:48:59.607 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+16:49:01.321 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+16:49:01.402 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+15:04:27.922 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+15:04:28.403 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+15:04:29.609 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:04:29.630 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+15:04:31.514 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+15:04:31.680 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+15:44:31.778 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+15:44:32.160 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+15:44:33.222 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:44:33.234 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+15:44:35.376 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+15:44:35.465 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+15:45:28.592 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+15:45:28.867 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+15:45:29.622 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:45:29.629 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+15:45:32.132 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+15:45:32.216 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+16:06:10.213 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+16:06:10.294 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+16:06:11.153 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+16:06:11.248 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+16:06:12.820 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:06:12.830 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+16:06:13.009 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+16:06:13.014 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+16:06:15.595 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+16:06:15.742 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+16:06:15.897 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+16:06:15.993 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+17:45:54.479 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+17:45:54.710 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+17:45:55.481 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:45:55.490 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+17:45:57.254 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+17:45:57.322 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+17:51:46.014 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+17:51:46.255 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+17:51:47.158 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:51:47.178 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+17:51:48.840 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+17:51:48.925 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+17:58:27.940 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+17:58:28.582 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+17:58:31.257 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+17:58:31.534 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+17:58:31.920 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:58:31.937 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+17:58:33.441 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:58:33.452 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+17:58:36.104 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+17:58:36.146 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+17:58:36.308 [TestNG-tests-2] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+17:58:36.476 [TestNG-tests-1] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+15:45:30.409 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+15:45:30.954 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+15:45:31.592 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+15:45:31.624 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+15:45:33.243 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+15:45:33.323 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+17:49:14.418 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+17:49:14.768 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+17:49:15.808 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:49:15.814 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+17:49:17.918 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+17:49:17.999 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+17:49:22.396 [main] INFO  com.qa.testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+17:49:23.134 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on MyAccount link
+17:49:23.566 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login link
+17:49:23.569 [main] INFO  com.qa.testCases.TC_002_LoginTest - ***** Providing login details ****
+17:49:24.374 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login button
+17:51:02.985 [main] INFO  com.qa.testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+17:51:03.388 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on MyAccount link
+17:51:03.799 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login link
+17:51:03.805 [main] INFO  com.qa.testCases.TC_002_LoginTest - ***** Providing login details ****
+17:51:04.526 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login button
+18:14:42.309 [main] INFO  com.qa.testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+18:14:42.655 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on MyAccount link
+18:14:43.144 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login link
+18:14:43.153 [main] INFO  com.qa.testCases.TC_002_LoginTest - ***** Providing login details ****
+18:14:43.980 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login button
+22:51:04.092 [main] INFO  com.qa.testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+22:51:04.662 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on MyAccount link
+22:51:05.235 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login link
+22:51:05.242 [main] INFO  com.qa.testCases.TC_002_LoginTest - ***** Providing login details ****
+22:51:06.621 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login button
+00:02:38.789 [main] INFO  com.qa.testCases.TC_003_LoginDDT - **** starting TC_002_LoginTest ****
+00:02:50.941 [main] INFO  com.qa.testCases.TC_003_LoginDDT - **** starting TC_002_LoginTest ****
+11:38:24.347 [main] INFO  com.qa.testCases.TC_003_LoginDDT - **** starting TC_002_LoginTest ****
+11:38:36.247 [main] INFO  com.qa.testCases.TC_003_LoginDDT - **** starting TC_002_LoginTest ****
+12:10:12.613 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:16:55.101 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:20:25.652 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:23:42.052 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+12:23:42.196 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+12:23:42.995 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+12:23:43.295 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+12:23:43.468 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+12:23:43.979 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+14:58:11.462 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+14:58:11.640 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+14:58:12.351 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+14:58:12.640 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+14:58:12.833 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+14:58:13.314 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:07:35.592 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:07:35.742 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:07:36.466 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:07:36.720 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:07:36.887 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:07:37.248 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:47:14.367 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:47:14.520 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:47:15.128 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:47:15.372 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:47:15.544 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:47:16.461 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:47:36.816 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:47:36.916 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:47:42.982 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:47:43.311 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:47:43.477 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:47:43.978 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:48:04.450 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:48:04.601 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:48:04.953 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:48:05.136 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:48:05.272 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:48:05.556 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:48:15.831 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:48:15.903 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:48:16.308 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:48:16.477 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:48:16.606 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:48:17.037 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:48:17.578 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+15:48:17.599 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:48:17.702 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:48:17.995 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:48:18.183 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:48:18.321 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:48:18.732 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:48:19.572 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+15:48:19.585 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:48:19.674 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:48:19.958 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:48:20.144 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:48:20.269 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:48:20.578 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:55:33.308 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:55:33.605 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:55:34.432 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:55:34.683 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:55:34.849 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:55:35.264 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:55:45.893 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:55:46.038 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:56:01.367 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:56:11.616 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:56:13.202 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:56:13.513 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:56:13.690 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:56:13.834 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:56:14.147 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:56:24.428 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:56:24.502 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:56:24.936 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:56:25.103 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:56:25.237 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:56:25.637 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:56:26.421 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+15:56:26.434 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:56:26.529 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:56:26.868 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:56:27.042 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:56:27.180 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:56:27.617 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:56:28.189 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+15:56:28.207 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:56:28.304 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:56:28.654 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:56:28.782 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:56:28.905 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:56:29.222 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:56:39.411 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+15:59:35.568 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:59:35.715 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:59:36.293 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:59:36.516 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:59:36.658 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:59:36.993 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:59:47.283 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:59:47.371 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+15:59:48.078 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+15:59:48.245 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+15:59:48.402 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+15:59:48.741 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+15:59:58.809 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+15:59:58.819 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+15:59:58.904 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:00:06.386 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:00:06.564 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:00:06.723 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:00:07.009 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:00:17.324 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:00:17.412 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:00:17.821 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:00:17.979 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:00:18.102 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:00:18.515 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:00:19.119 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:00:19.143 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:00:19.240 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:00:19.549 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:00:19.729 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:00:19.847 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:00:20.211 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:00:20.772 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:00:20.783 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:00:20.869 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:00:21.217 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:00:21.320 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:00:21.421 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:00:21.798 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:00:31.912 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:03:48.646 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:03:48.844 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:03:49.483 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:03:49.729 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:03:49.918 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:03:50.326 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:04:00.594 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:04:00.665 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:04:14.563 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:04:14.724 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:04:14.852 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:04:15.136 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:04:25.271 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:04:25.280 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:04:25.384 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:04:25.833 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:04:25.983 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:04:26.103 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:04:26.429 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:04:36.653 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:04:36.742 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:04:37.152 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:04:37.305 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:04:37.420 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:04:37.839 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:04:38.457 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:04:38.473 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:04:38.561 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:04:39.086 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:04:39.247 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:04:39.362 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:04:39.838 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:04:40.392 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:04:40.409 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:04:40.521 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:04:40.878 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:04:40.982 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:04:41.070 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:04:41.367 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:04:51.435 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:11:33.269 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:11:33.468 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:11:34.140 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:11:34.540 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:11:34.680 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:11:35.055 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:11:45.428 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:11:45.499 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:11:46.038 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:11:46.181 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:11:46.344 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:11:46.701 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:11:56.758 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:11:56.762 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:11:56.832 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:11:57.358 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:11:57.535 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:11:57.693 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:11:58.049 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:12:08.325 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:12:08.407 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:12:08.917 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:12:09.102 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:12:09.270 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:12:09.790 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:12:10.433 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:12:10.449 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:12:10.530 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:12:10.902 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:12:11.120 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:12:11.250 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:12:11.742 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:12:12.267 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+16:12:12.285 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+16:12:12.374 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+16:12:12.730 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+16:12:12.859 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+16:12:12.978 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+16:12:13.381 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+16:12:23.433 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+17:02:02.590 [main] INFO  com.qa.testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+17:02:02.812 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on MyAccount link
+17:02:03.292 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login link
+17:02:03.303 [main] INFO  com.qa.testCases.TC_002_LoginTest - ***** Providing login details ****
+17:02:04.221 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login button
+17:04:46.083 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+17:04:46.235 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+17:04:46.965 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:04:46.976 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+17:04:48.754 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+17:04:48.823 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+17:04:53.558 [main] INFO  com.qa.testCases.TC_002_LoginTest - **** starting TC_002_LoginTest ****
+17:04:53.657 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on MyAccount link
+17:04:54.127 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login link
+17:04:54.135 [main] INFO  com.qa.testCases.TC_002_LoginTest - ***** Providing login details ****
+17:04:55.043 [main] INFO  com.qa.testCases.TC_002_LoginTest - clicked on login button
+17:37:49.250 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+17:37:49.534 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+17:37:50.576 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+17:37:51.766 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+17:37:51.972 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+17:37:52.558 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+17:38:03.394 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+17:38:03.488 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+17:38:07.737 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+17:38:07.932 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+17:38:08.125 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+17:38:24.655 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+17:38:34.705 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+17:38:34.718 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+17:38:34.864 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+17:38:35.441 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+17:38:35.633 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+17:38:35.775 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+17:38:36.223 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+17:38:46.572 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+17:38:46.654 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+17:38:47.161 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+17:38:47.303 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+17:38:47.413 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+17:38:47.817 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+17:38:48.642 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+17:38:48.647 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+17:38:48.761 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+17:38:49.472 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+17:38:49.624 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+17:38:49.729 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+17:38:50.182 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+17:38:50.950 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+17:38:50.959 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Starting TC_003_LoginDataDrivenTest 
+17:38:51.064 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on MyAccount link 
+17:38:51.813 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on Login link 
+17:38:51.950 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd email address 
+17:38:52.090 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  enterd password 
+17:38:52.452 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  clicked on login button 
+17:39:02.656 [main] INFO  com.qa.testCases.TC_003_LoginDDT -  Finished TC_003_LoginDataDrivenTest
+17:46:18.343 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+17:46:18.919 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+17:46:19.736 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+17:46:19.745 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+17:46:21.522 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+17:46:21.621 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+19:17:48.783 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+19:17:49.019 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+19:17:49.625 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+19:17:49.640 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+19:17:51.422 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+19:17:51.499 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+19:24:44.502 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+19:24:45.315 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+19:24:46.351 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+19:24:46.370 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+19:24:48.678 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+19:24:48.787 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+14:28:45.855 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+14:28:46.143 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+14:28:47.033 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:28:47.042 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+14:28:48.940 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+14:28:49.013 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
+14:29:37.843 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest -  **** Starting TC_001_AccountRegisterTest ****
+14:29:38.326 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Myaccount link
+14:29:39.629 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Clicked on Register link
+14:29:39.644 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Providing the Customer Data
+14:29:41.517 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - Validating Expected message
+14:29:41.596 [main] INFO  com.qa.testCases.TC_001_AccountRegistrationTest - ****  TC_001_AccountRegisterTest completed    ****
